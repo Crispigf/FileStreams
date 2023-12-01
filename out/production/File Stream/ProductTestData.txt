@@ -1,0 +1,5 @@
+grape, purple fruit, 000001, 0.2
+bread, made out of wheat, 000343, 10.1
+watermelon, doesn't just have water, 000003, 5.0
+redbull, Redbull gives you wings, 000005, 2.55
+Flour, 5 pounds, 000006, 5.01
